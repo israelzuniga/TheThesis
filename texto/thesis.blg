@@ -1,58 +1,57 @@
-This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+This is BibTeX, Version 0.99c (TeX Live 2009)
 The top-level auxiliary file: thesis.aux
-A level-1 auxiliary file: 0_frontmatter/abstract.aux
-A level-1 auxiliary file: 0_frontmatter/dedication.aux
-A level-1 auxiliary file: 0_frontmatter/acknowledgement.aux
+A level-1 auxiliary file: .aux
+Already encountered file .aux
+---line 27 of file thesis.aux
+ : \@input{.aux
+ :             }
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: 0_frontmatter/glossary.aux
 A level-1 auxiliary file: 1_introduction/introduction.aux
-A level-1 auxiliary file: 2/aims.aux
-A level-1 auxiliary file: 3/XYZ.aux
-A level-1 auxiliary file: 4/XYZ.aux
-A level-1 auxiliary file: 5/XYZ.aux
-A level-1 auxiliary file: 6/XYZ.aux
-A level-1 auxiliary file: 7/discussion.aux
-A level-1 auxiliary file: 8/materials_methods.aux
+A level-1 auxiliary file: 2/EstadoDelArte.aux
+A level-1 auxiliary file: 3/Metodologia.aux
 The style file: Latex/Classes/PhDbiblio-url2.bst
-A level-1 auxiliary file: 9_backmatter/declaration.aux
-Database file #1: 9_backmatter/references.bib
-You've used 2 entries,
+I found no \citation commands---while reading file thesis.aux
+Database file #1: references.bib.bib
+You've used 0 entries,
             2776 wiz_defined-function locations,
-            622 strings with 5243 characters,
-and the built_in function-call counts, 610 in all, are:
-= -- 60
-> -- 14
+            605 strings with 5015 characters,
+and the built_in function-call counts, 34 in all, are:
+= -- 0
+> -- 0
 < -- 0
-+ -- 6
-- -- 4
-* -- 26
-:= -- 117
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 6
++ -- 0
+- -- 0
+* -- 2
+:= -- 23
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 26
-empty$ -- 57
-format.name$ -- 4
-if$ -- 141
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 16
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 0
 quote$ -- 0
-skip$ -- 42
+skip$ -- 1
 stack$ -- 0
-substring$ -- 10
-swap$ -- 6
+substring$ -- 0
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
+type$ -- 0
 warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 22
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There were 2 error messages)
