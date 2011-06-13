@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.5.8)  13 JUN 2011 12:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.5.8)  13 JUN 2011 12:51
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -576,7 +576,7 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
  [3]
-<1_introduction/figures/satellite-design-amsat.png, id=200, 596.2275pt x 413.54
+<1_introduction/figures/satellite-design-amsat.png, id=202, 596.2275pt x 413.54
 5pt>
 File: 1_introduction/figures/satellite-design-amsat.png Graphic file (type png)
 
@@ -619,7 +619,7 @@ Missing character: There is no ù in font cmr10!
 
 ]
 Cap\'{i}tulo 3.
-<3/figures/metodo-desarrollo.png, id=230, 481.8pt x 348.30125pt>
+<3/figures/metodo-desarrollo.png, id=232, 481.8pt x 348.30125pt>
 File: 3/figures/metodo-desarrollo.png Graphic file (type png)
 
 <use 3/figures/metodo-desarrollo.png>) [11] [12 <./3/figures/metodo-desarrollo.
@@ -628,10 +628,10 @@ png (PNG copy)>]
 
  (./4/Calendario.tex
 Cap\'{i}tulo 4.
-<4/figures/1.png, id=239, 778.91pt x 432.61626pt>
+<4/figures/1.png, id=241, 778.91pt x 432.61626pt>
 File: 4/figures/1.png Graphic file (type png)
  <use 4/figures/1.png>
-<4/figures/2.png, id=240, 703.62875pt x 559.08875pt>
+<4/figures/2.png, id=242, 703.62875pt x 559.08875pt>
 File: 4/figures/2.png Graphic file (type png)
  <use 4/figures/2.png>)
 [13
@@ -665,9 +665,9 @@ usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
 sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
 ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (25 pages, 376454 bytes).
+Output written on thesis.pdf (25 pages, 376661 bytes).
 PDF statistics:
- 297 PDF objects out of 1000 (max. 8388607)
+ 298 PDF objects out of 1000 (max. 8388607)
  61 named destinations out of 1000 (max. 500000)
  210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
