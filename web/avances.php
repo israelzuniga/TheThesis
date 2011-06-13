@@ -29,7 +29,7 @@ include('sidebar.inc');
 <a href="		https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B1JXJmZz7gBLZTViYjg4ZGUtY2M3NS00ZTZmLTkyNDUtNjE4MjUyYjlmMjk2&hl=en_US
 ">Cap&iacute;tulo 2 - Estado del Arte </a></li>
 
-<li><a href="https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B1JXJmZz7gBLYzFiNWRmOTktOTcyNi00NGMwLThiZTAtZDc5YzI1NjI1OTk3&hl=en_US">Cap&iacute;tulo 3 - Metodolog&iacute;a</a></li>
+<li><a href="https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B1JXJmZz7gBLNTBiMDFhMjYtOTY0YS00OTM3LWI2MTMtZmQxOWU2ZGQ0NWU3&hl=en_US">Cap&iacute;tulo 3 - Metodolog&iacute;a</a></li>
 
 <li><a href="https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B1JXJmZz7gBLMjRlY2Y1ODctYjc3NS00NzkwLWFiZWQtYzk5YTMxYzFmZTBi&hl=en_US">Cap&iacute;tulo 4 - Calendario</a></li>
 
