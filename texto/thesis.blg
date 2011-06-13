@@ -10,12 +10,13 @@ A level-1 auxiliary file: 0_frontmatter/glossary.aux
 A level-1 auxiliary file: 1_introduction/introduction.aux
 A level-1 auxiliary file: 2/EstadoDelArte.aux
 A level-1 auxiliary file: 3/Metodologia.aux
+A level-1 auxiliary file: 4/Calendario.aux
 The style file: Latex/Classes/PhDbiblio-url2.bst
 I found no \citation commands---while reading file thesis.aux
-Database file #1: references.bib.bib
+I found no \bibdata command---while reading file thesis.aux
 You've used 0 entries,
             2776 wiz_defined-function locations,
-            605 strings with 5015 characters,
+            605 strings with 5017 characters,
 and the built_in function-call counts, 34 in all, are:
 = -- 0
 > -- 0
@@ -54,4 +55,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 2
-(There were 2 error messages)
+(There were 3 error messages)

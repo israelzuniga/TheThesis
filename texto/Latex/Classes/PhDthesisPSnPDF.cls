@@ -58,15 +58,15 @@
 \usepackage[nottoc]{tocbibind} % correct page numbers for bib in TOC, nottoc suppresses an entry for TOC itself
 %\usepackage{nextpage}
 
+
 %:-------------------------- Glossary/Abbrev./Symbols -----------------------
 
 \usepackage[intoc]{nomencl} % load nomencl extension; include in TOC
 %\nomrefpage % to include page numbers after abbrevations
-%\renewcommand{\nomname}{Glossary} % rename nomenclature
+\renewcommand{\nomname}{Glosario} % rename nomenclature
 \renewcommand{\nomlabel}[1]{\textbf{#1}} % make abbreviations bold
 \makenomenclature % used to be \makeglossary
-\newcommand{\g}{\footnote{Para todas las abreviaciones ver p\'{a}gina  \pageref{nom}.}} % type "\g" to refer to glossary
-\renewcommand{\chaptername}{Capítulo}
+\newcommand{\g}{\footnote{For all abbreviations see the glossary on page \pageref{nom}.}} % type "\g" to refer to glossary
 
 % used to be for sorting into categories:
 %\renewcommand\nomgroup[1]{%
@@ -229,7 +229,7 @@
 
 %martes 7 de junio - cambiado el submitted text
 
-\newcommand{\submittedtext}{Entrega De Tesis Para Tercera Parcial}}
+\newcommand{\submittedtext}{Entrega De Tesis Examen Ordinario}}
 
 % DECLARATIONS
 % These macros are used to declare arguments needed for the

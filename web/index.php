@@ -31,7 +31,7 @@ include('sidebar.inc');
 		As&iacute; tambi&eacute;n, se puede consultar el avance en el trabajo, como dise&ntilde;os esquem&aacute;ticos o de PCBs y c&oacuet;digos fuente creados y empleados en este mismo trabajo. <a href="https://github.com/israelzuniga/TheThesis">En el repositorio creado para dicho fin.</a><br /> 
 	<a href="mailto:israelzuniga@ucol.mx">Contacto hac&iacute;a el estudiante</a>
 		</p>
-
+Actualizado en <strong>12 de Junio de 2011</strong>
       </div>
 <?php
     include('footer.inc');

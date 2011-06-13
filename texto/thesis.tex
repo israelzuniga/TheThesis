@@ -178,7 +178,8 @@
 % the main text starts here with the introduction, 1st chapter,...
 \mainmatter
 
-\renewcommand{\chaptername}{} % uncomment to print only "1" not "Chapter 1"
+%\renewcommand{\chaptername}{} % uncomment to print only "1" not "Chapter 1"
+\renewcommand{\chaptername}{Cap\'{i}tulo}
 
 
 %: ----------------------- subdocuments ------------------------
@@ -190,7 +191,7 @@
 \include{2/EstadoDelArte}						% estado del arte
 
 \include{3/Metodologia}			
-%\include{4/Calendario}	
+\include{4/Calendario}	
 %\include{5/XYZ}
 %\include{6/XYZ}
 
@@ -219,9 +220,9 @@
 \begin{tiny} % tiny(5) < scriptsize(7) < footnotesize(8) < small (9)
 
 \bibliographystyle{Latex/Classes/PhDbiblio-url2} % Title is link if provided
-\renewcommand{\bibname}{Referencias} % changes the header; default: Bibliography
+%\renewcommand{\bibname}{Referencias} % changes the header; default: Bibliography
 
-\bibliography{9_backmatter/references.bib} % adjust this to fit your BibTex file
+%\bibliography{9_backmatter/references.bib} % adjust this to fit your BibTex file
 
 
 \end{tiny}

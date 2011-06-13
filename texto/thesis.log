@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.5.8)  9 JUN 2011 09:16
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.5.8)  13 JUN 2011 00:36
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -359,7 +359,7 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@width=\dimen125
 )
 ./Latex/Classes/PhDthesisPSnPDF.cls:232: Too many }'s.
-l.232 ...}{Entrega De Tesis Para Tercera Parcial}}
+l.232 ...text}{Entrega De Tesis Examen Ordinario}}
                                                   
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
@@ -370,7 +370,7 @@ Such booboos are generally harmless, so keep going.
 
 (./Latex/Macros/MacroFile1.tex) (./thesis.aux (./.aux) (./.aux)
 (./0_frontmatter/glossary.aux) (./1_introduction/introduction.aux)
-(./2/EstadoDelArte.aux) (./3/Metodologia.aux))
+(./2/EstadoDelArte.aux) (./3/Metodologia.aux) (./4/Calendario.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
@@ -423,7 +423,7 @@ LaTeX Info: Redefining \pageref on input line 87.
 Package backref Info: ** backref set up for natbib ** on input line 87.
 \AtBeginShipoutBox=\box53
 
-<0_frontmatter/figures/escudo-ucol.jpg, id=99, 83.8332pt x 82.8696pt>
+<0_frontmatter/figures/escudo-ucol.jpg, id=107, 83.8332pt x 82.8696pt>
 File: 0_frontmatter/figures/escudo-ucol.jpg Graphic file (type jpg)
 
 <use 0_frontmatter/figures/escudo-ucol.jpg> [1
@@ -469,7 +469,7 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 ...ine {chapter}{Referencias}{13}{section*.9}
+l.25 ...{\numberline {4}Calendario}{13}{chapter.4}
                                                    [1
 
 
@@ -524,7 +524,7 @@ l.154 \listoftables
 \openout2 = `1_introduction/introduction.aux'.
 
  (./1_introduction/introduction.tex
- 1.
+Cap\'{i}tulo 1.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -576,7 +576,7 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
  [3]
-<1_introduction/figures/satellite-design-amsat.png, id=201, 596.2275pt x 413.54
+<1_introduction/figures/satellite-design-amsat.png, id=215, 596.2275pt x 413.54
 5pt>
 File: 1_introduction/figures/satellite-design-amsat.png Graphic file (type png)
 
@@ -603,7 +603,7 @@ Missing character: There is no ø in font cmr10!
 
 
 ]
- 2.
+Cap\'{i}tulo 2.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -618,51 +618,59 @@ Missing character: There is no ù in font cmr10!
 
 
 ]
- 3.
+Cap\'{i}tulo 3.
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ± in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ± in font cmr10!
-[11]) [12] (./thesis.bbl (./thesis.brf)
-\tf@brf=\write8
-\openout8 = `thesis.brf'.
+[11]) [12]
+\openout2 = `4/Calendario.aux'.
+
+ (./4/Calendario.tex
+Cap\'{i}tulo 4.
+<4/figures/1.png, id=254, 778.91pt x 432.61626pt>
+File: 4/figures/1.png Graphic file (type png)
+ <use 4/figures/1.png>
+<4/figures/2.png, id=255, 703.62875pt x 559.08875pt>
+File: 4/figures/2.png Graphic file (type png)
+ <use 4/figures/2.png>)
+[13
 
 
 
-Package natbib Warning: Empty `thebibliography' environment on input line 3.
-
-) [13
-
-
-] (./thesis.aux (./.aux) (./.aux) (./0_frontmatter/glossary.aux)
+] [14 <./4/figures/1.png (PNG copy)>] [15 <./4/figures/2.png (PNG copy)>]
+(./thesis.aux (./.aux) (./.aux) (./0_frontmatter/glossary.aux)
 (./1_introduction/introduction.aux) (./2/EstadoDelArte.aux)
-(./3/Metodologia.aux))
+(./3/Metodologia.aux) (./4/Calendario.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7305 strings out of 493848
- 107186 string characters out of 3149208
- 194118 words of memory out of 3000000
- 10342 multiletter control sequences out of 15000+200000
+ 7329 strings out of 493848
+ 107551 string characters out of 3149208
+ 194116 words of memory out of 3000000
+ 10354 multiletter control sequences out of 15000+200000
  12582 words of font info for 46 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,13n,46p,1139b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
-usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
-usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (23 pages, 246192 bytes).
+pdfTeX warning (dest): name{section*.11} has been referenced but does not exi
+st, replaced by a fixed one
+
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></us
+r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></us
+r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (25 pages, 367118 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 314 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 229 words of extra memory for PDF output out of 10000 (max. 10000000)
 

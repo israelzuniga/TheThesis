@@ -7,6 +7,7 @@ include('header.inc');
           <li><a href="index.php">Inicio</a></li>
           <li><a href="avances.php">Avances de Proyecto</a></li>
           <li class="selected"><a href="enlaces.php">Enlaces</a></li>
+		<li><a href="https://github.com/israelzuniga/TheThesis">Repositorio</a></li>
         </ul>
       </div>
     </div>
