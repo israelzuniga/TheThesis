@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.5.8)  13 JUN 2011 00:36
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2010.5.8)  13 JUN 2011 12:48
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -423,7 +423,7 @@ LaTeX Info: Redefining \pageref on input line 87.
 Package backref Info: ** backref set up for natbib ** on input line 87.
 \AtBeginShipoutBox=\box53
 
-<0_frontmatter/figures/escudo-ucol.jpg, id=107, 83.8332pt x 82.8696pt>
+<0_frontmatter/figures/escudo-ucol.jpg, id=95, 83.8332pt x 82.8696pt>
 File: 0_frontmatter/figures/escudo-ucol.jpg Graphic file (type jpg)
 
 <use 0_frontmatter/figures/escudo-ucol.jpg> [1
@@ -465,26 +465,26 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.25 ...{\numberline {4}Calendario}{13}{chapter.4}
-                                                   [1
-
-
-\FN@pp@footnotehinttrue 
-
-
-\FN@pp@footnotehinttrue 
-
-
-])
+))
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.II}) has
- been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.152 \listoffigures
+                    	% print list of figures [1
+
+
+\FN@pp@footnotehinttrue 
+
+
+\FN@pp@footnotehinttrue 
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.II}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.152 \listoffigures
@@ -576,7 +576,7 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
  [3]
-<1_introduction/figures/satellite-design-amsat.png, id=215, 596.2275pt x 413.54
+<1_introduction/figures/satellite-design-amsat.png, id=200, 596.2275pt x 413.54
 5pt>
 File: 1_introduction/figures/satellite-design-amsat.png Graphic file (type png)
 
@@ -619,21 +619,19 @@ Missing character: There is no ù in font cmr10!
 
 ]
 Cap\'{i}tulo 3.
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ± in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ± in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ± in font cmr10!
-[11]) [12]
+<3/figures/metodo-desarrollo.png, id=230, 481.8pt x 348.30125pt>
+File: 3/figures/metodo-desarrollo.png Graphic file (type png)
+
+<use 3/figures/metodo-desarrollo.png>) [11] [12 <./3/figures/metodo-desarrollo.
+png (PNG copy)>]
 \openout2 = `4/Calendario.aux'.
 
  (./4/Calendario.tex
 Cap\'{i}tulo 4.
-<4/figures/1.png, id=254, 778.91pt x 432.61626pt>
+<4/figures/1.png, id=239, 778.91pt x 432.61626pt>
 File: 4/figures/1.png Graphic file (type png)
  <use 4/figures/1.png>
-<4/figures/2.png, id=255, 703.62875pt x 559.08875pt>
+<4/figures/2.png, id=240, 703.62875pt x 559.08875pt>
 File: 4/figures/2.png Graphic file (type png)
  <use 4/figures/2.png>)
 [13
@@ -647,30 +645,29 @@ File: 4/figures/2.png Graphic file (type png)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 7329 strings out of 493848
- 107551 string characters out of 3149208
+ 7333 strings out of 493848
+ 107717 string characters out of 3149208
  194116 words of memory out of 3000000
- 10354 multiletter control sequences out of 15000+200000
+ 10356 multiletter control sequences out of 15000+200000
  12582 words of font info for 46 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 45i,13n,46p,1139b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.11} has been referenced but does not exi
-st, replaced by a fixed one
-
-</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-/usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></us
-r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></us
-r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
-/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
-al/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (25 pages, 367118 bytes).
+ 45i,13n,45p,1139b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (25 pages, 376454 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
