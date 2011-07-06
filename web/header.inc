@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN " "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es"  lang="es">
 
 <head>
   <title>Tesis - Israel Zun&ntilde;iga de la Mora</title>
   <meta name="description" content="Proyecto de Tesis de Israel Zuñiga - En el cual se diseña y construirá un Pico Satélite" />
   <meta name="keywords" content="universidad de colima, facultad de telematica, colima, mexico, cansat, cubesat, cansat, pico, nano, micro, femto, satelite, satellite, high altitude balloning, open source software, open source hardware" />
-  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <meta http-equiv="content-type" content="text/html; charset=charset=UTF-8" />
   <link rel="stylesheet" type="text/css" href="style/style.css" />
 <script type="text/javascript">
 
