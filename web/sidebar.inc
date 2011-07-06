@@ -1,7 +1,7 @@
 <div class="sidebar">
   <!-- insert your sidebar items here -->
 	<h1>Carta de Compromiso</h1>
-	<p>Toda tesis formal, debe ser evaluada y avalada por asesores. <a href="img/carta.jpg" target="_blank">Esta es mi carta de compromiso.</a></p>
+	<p>Toda tesis formal, debe ser evaluada y avalada por asesores. <a href="img/carta.jpg">Esta es mi carta de compromiso.</a></p>
   <h1>Perfil y Academia</h1>
   <ul>
     <li><a href="http://www.ucol.mx/">Universidad de Colima</a></li>

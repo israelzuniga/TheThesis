@@ -32,6 +32,8 @@ include('sidebar.inc');
 				<li><a href="http://www.whatthebook.com/book/9781402001994" alt="Libro de Referencia: Smaller Satellites: Bigger Business?: Concepts, Applications and Markets for Micro/Nanosatellites in a New Information World" target="_blank">Libro de Referencia: Smaller Satellites: Bigger Business?: Concepts, Applications and Markets for Micro/Nanosatellites in a New Information World</a></li>
 				<li><a href="http://ebookee.org/Space-Mission-Analysis-and-Design-3rd-edition-Space-Technology-Library-_196081.html" alt="Libro de referencia: Space Mission Analysis and Design, 3rd edition (Space Technology Library)" target="_blank">Libro de referencia: Space Mission Analysis and Design, 3rd edition (Space Technology Library)</a></li>
 				
+			</ul>
+				
         </p>
 
       </div>
