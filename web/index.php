@@ -18,7 +18,7 @@ include('sidebar.inc');
       <div id="content">
         <!-- insert the page content here -->
         <h1>Sobre el Autor y este trabajo de Tesis</h1>
-        <img src="img/israelz.jpg" alt="El autor" align="left" style="margin: 10px;"/><p>Mi nombre es Israel Zu&ntilde;iga de la Mora, estudiante de la Facultad de Telem&aacute;tica en la Universidad de Colima. Actualmente curso la Ingenier&iacute;a en Telem&aacute;tica en su 6to. semestre.<br/>
+        <img src="img/israelz.jpg" alt="El autor" align="left" style="margin: 10px;"/><p>Mi nombre es Israel Zu&ntilde;iga de la Mora, estudiante de la Facultad de Telem&aacute;tica en la Universidad de Colima. Actualmente curso la Ingenier&iacute;a en Telem&aacute;tica en su 7mo. semestre.<br/>
 	Este espacio tiene el fin de informar al visitante el estado actual del desarrollo de proyecto y del texto de tesis.
 	</p>
 	<p>En el apartado de <a href="avances.php">Avances</a>, es posible consultar como voy con la redacci&oacute;n de la tesis. Texto que hasta el momento ha sido aprobado por el conjunto de Asesor y Co-asesor.<br/>
